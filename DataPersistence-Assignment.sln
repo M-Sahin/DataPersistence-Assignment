@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataPersistence-Assignment", "DataPersistence-Assignment\DataPersistence-Assignment.csproj", "{39B0146D-8FC7-4289-986A-DC5CDDE07E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B0146D-8FC7-4289-986A-DC5CDDE07E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B0146D-8FC7-4289-986A-DC5CDDE07E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B0146D-8FC7-4289-986A-DC5CDDE07E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B0146D-8FC7-4289-986A-DC5CDDE07E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75152945-7710-4562-9AC4-5184AE318D2D}
+	EndGlobalSection
+EndGlobal
